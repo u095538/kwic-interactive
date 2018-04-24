@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class KwicInteractive
+public class KwicSystemInteractive
 {
 
    public static void main(String[] args)
